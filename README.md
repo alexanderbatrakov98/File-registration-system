@@ -50,3 +50,5 @@ Follow these steps to set up the system on your server:
    <script src="./server/functions/main.js" type="server" language="javascript" />
 
 4. All you have to do is implement the camera logic in the main.js source and the spawn logic in the auth.js source
+
+**English version:** in [release](https://github.com/alexanderbatrakov98/Registration-system/releases/tag/englishver). 
